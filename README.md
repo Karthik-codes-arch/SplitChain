@@ -42,6 +42,7 @@ payments in real-time on the blockchain.
 
 4. Run the frontend:
 ```bash
+   cd /d C:\AlgoHack\projects\frontend
    cd projects/frontend
    pnpm run dev
 ```
