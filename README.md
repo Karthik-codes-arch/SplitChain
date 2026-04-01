@@ -46,8 +46,6 @@ payments in real-time on the blockchain.
    pnpm run dev
 ```
 
-5. Open http://localhost:5173
-
 ## 👥 Team
 - **Team Name:** Genkai Apex
 - **Hackathon:** AlgoHack 1.0
